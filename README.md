@@ -9,5 +9,5 @@
 
 ---
 
-© 2020 Crafted by Irfan Maulana
+© 2020 Crafted & Credits to Irfan Maulana
 
