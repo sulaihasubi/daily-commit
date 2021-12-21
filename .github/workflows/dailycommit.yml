@@ -1,4 +1,4 @@
-name: Auto commit
+name: Daily commit
 
 on:
 
@@ -29,14 +29,14 @@ jobs:
           git config --local user.name "sulaihasubi"
           git add -A
           
-          arr[0]="feat: 😂 auto commit"
-          arr[1]="feat: 😱 auto commit"
-          arr[2]="feat: 👿 auto commit"
-          arr[3]="feat: 💩 auto commit"
-          arr[4]="feat: 🙏 auto commit"
-          arr[5]="feat: 🙈 auto commit"
-          arr[6]="feat: 🐐 auto commit"
-          arr[7]="feat: 🚀 auto commit"
+          arr[0]="feat: 😂 daily commit"
+          arr[1]="feat: 😱 daily commit"
+          arr[2]="feat: 👿 daily commit"
+          arr[3]="feat: 💩 daily commit"
+          arr[4]="feat: 🙏 daily commit"
+          arr[5]="feat: 🙈 daily commit"
+          arr[6]="feat: 🐐 daily commit"
+          arr[7]="feat: 🚀 daily commit"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
