@@ -2,7 +2,7 @@
 
 🌳 Making green my Github stats, powered by [Github Actions](https://github.com/features/actions)
 
-## :heart: Contributor
+## Contributor
 
 <a href="https://github.com/sulaihasubi/daily-commit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sulaihasubi/daily-commit" />
